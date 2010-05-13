@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10.6111in"
+   height="4.33333in"
+   viewBox="0 0 764 312"
+   id="svg7200"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Z0.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata7206">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7204">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 194.99986 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="954.99902 : 194.99986 : 1"
+       inkscape:persp3d-origin="477.49951 : 129.99991 : 1"
+       id="perspective7208" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="978"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="1.1392682"
+     inkscape:cx="506.12477"
+     inkscape:cy="150.89526"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg7200" />
+  <path
+     id="Unnamed"
+     fill="none"
+     stroke="black"
+     stroke-width="1"
+     d="M 171.00,215.00            C 135.75,166.50 164.00,124.50 258.75,96.75              300.20,109.90 369.75,114.85 442.00,114.00              360.01,143.72 238.79,218.47 220.00,244.00              278.50,278.50 461.82,298.41 577.82,266.91              590.80,269.60 607.83,276.00 620.17,280.35              608.54,270.17 601.50,264.63 593.57,261.39              733.57,215.39 737.50,153.00 662.50,104.50              715.00,174.00 673.00,210.50 564.00,243.00              468.50,215.00 368.50,217.00 273.00,228.00              359.50,156.50 490.00,114.50 616.00,86.00              506.50,42.50 328.50,47.50 252.50,77.50              232.75,72.75 221.00,69.50 208.75,64.75              218.00,74.50 223.50,77.75 234.25,82.75              140.25,121.75 113.50,158.50 171.00,215.00 Z            M 213.09,228.73            C 240.36,200.36 311.47,156.38 372.00,128.36              325.09,127.27 281.09,118.18 259.27,111.64              169.09,140.36 148.00,177.82 213.09,228.73 Z            M 327.50,208.00            C 405.50,156.50 551.00,111.50 624.00,102.00              681.50,136.00 704.50,180.00 572.00,227.50              486.00,204.50 375.50,200.00 327.50,208.00 Z            M 284.36,251.64            C 343.27,265.82 464.73,261.45 520.00,250.55              474.55,236.00 345.09,234.55 284.36,251.64 Z            M 300.36,89.45            C 365.09,71.64 464.73,68.36 535.27,80.73              456.73,96.36 402.91,99.27 300.36,89.45 Z            M 245.00,62.00            C 665.33,-25.33 861.33,177.33 629.00,265.00              664.50,296.00 660.50,308.00 581.50,284.00              134.00,347.00 30.67,151.33 202.00,78.00              155.50,38.00 185.50,43.25 245.00,62.00 Z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+</svg>
